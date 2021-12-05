@@ -20,7 +20,9 @@ Note: Some of these may be subjective, and some may have been fixed without my k
 - [ ] [USB errors on boot.](https://youtu.be/0506yDSgU7M?t=870)
 - [ ] [Installing Steam from Mint Software Manager shows "Removing...".](https://youtu.be/0506yDSgU7M?t=921)
 - [ ] [Linus doesn't like KDE Plasma's settings design.](https://youtu.be/0506yDSgU7M?t=982)
+  - **Possible fix:** The KDE team is aware of this. The System Settings application needs to undergo a full rewrite.
 - [ ] [The check boxes under "Hardware Configuration" look like radio buttons.](https://youtu.be/0506yDSgU7M?t=991)
+  - **Possible fix:** Manjaro's default Breath theme uses the button style from the old Breeze theme, from before the redesign. The new Breeze theme, codenamed "Blue Ocean," changes the look of the radio buttons and checkboxes to make them look as such. It is the responsibility of the Manjaro team to adopt these changes.
 - [ ] [Cave Story+ looks weird.](https://youtu.be/0506yDSgU7M?t=1101)
 - [ ] [Linus's controller doesn't work in Cave Story+.](https://youtu.be/0506yDSgU7M?t=1105)
 
@@ -33,6 +35,7 @@ Note: Some of these may be subjective, and some may have been fixed without my k
 - [ ] [OBS requires a restart (or something) for some things to work correctly, but doesn't say so.](https://youtu.be/3E8IGy6I9Wo?t=224)
 - [ ] [The option to show Snap, Flatpak, and AUR packages in Pamac is "hidden".](https://youtu.be/3E8IGy6I9Wo?t=540)
 - [ ] [Scrolling with the mouse wheel in KDE's volume mixer applet scrolls through both devices and levels of devices.](https://youtu.be/3E8IGy6I9Wo?t=573)
+  - A fix for this has already been merged.
 
 ### Part 3
 
@@ -55,6 +58,7 @@ Note: Some of these may be subjective, and some may have been fixed without my k
   - **Possible fix:** Replace it with the "Minimize all Windows" applet.
 - [ ] [The application names don't represent the jobs of those applications (e.g. "Kate").](https://youtu.be/fJB9fdXWiiw?t=702)
   - **Possible fix:** Put the applications' descriptions in parentheses next to their names (e.g. "Kate (text editor)").
+  - Application descriptions were added next to their names in the Kickoff redesign. When searching for terms like "text editor," the text editor does show up.
 - [ ] [Luke's system locks up when his TV turns on.](https://youtu.be/sS25mCLyQyk?t=416)
 
 ## Some other suggestions for developers based on this challenge
