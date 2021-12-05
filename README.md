@@ -72,4 +72,4 @@ If you have a fix for one of these issues or you can describe it better than is 
 
 ## Other users' experience
 
-- #1
+- [#1](https://github.com/glibg10b/ltt-linux-challenge-issues/issues/1)
