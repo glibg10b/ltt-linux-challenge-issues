@@ -14,7 +14,7 @@ Note: Some of these may be subjective.
 - [ ] [Mouse acceleration is on by default.](https://youtu.be/0506yDSgU7M?t=541)
   - **Possible fix:** Turn it off by default.
 - [ ] [GoXLR acts as an input when configured as an output device.](https://youtu.be/0506yDSgU7M?t=552)
-- [ ] [Pop! OS doesn't have a noob-friendly way of checking what hardware is connected and whether the drivers work.](https://youtu.be/0506yDSgU7M?t=579)
+- [ ] [Pop!\_OS doesn't have a noob-friendly way of checking what hardware is connected and whether the drivers work.](https://youtu.be/0506yDSgU7M?t=579)
   - **Possible fix:** Make it ship with Hardinfo installed.
 - [x] [Installing Steam uninstalls essential packages and it isn't clear that this is bad.](https://youtu.be/0506yDSgU7M?t=607) ([Fix](https://github.com/pop-os/apt/pull/1)) 
 - [ ] [USB errors on boot.](https://youtu.be/0506yDSgU7M?t=870)
