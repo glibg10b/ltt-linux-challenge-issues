@@ -39,7 +39,7 @@ Note: Some of these may be subjective, and some may have been fixed without my k
 - [ ] [The "Moving" Dolphin notification is easy to miss on a large screen.](https://youtu.be/TtsglXhbxno?t=163)
   - **Possible fix:** Hide the file (dot prefix) until it's done moving.
 - [ ] [Okular's dialog about "no available signing certificates" refers to a manual, which Linus completely ignored for some reason.](https://youtu.be/TtsglXhbxno?t=281)
-- [ ] [LibreOffice Calc doesn't export the bottom and right edges of a chart.](https://youtu.be/TtsglXhbxno?t=440)
+- [ ] [LibreOffice Calc didn't export the bottom and right edges of a chart.](https://youtu.be/TtsglXhbxno?t=440) [Sgt-Miller](https://github.com/Sgt-Miller) says it did for them.
 - [ ] [You can't drag a folder of fonts onto Linux Mint's font previewer to install them.](https://youtu.be/TtsglXhbxno?t=455)
 - [ ] [Something about Ark?](https://youtu.be/TtsglXhbxno?t=499)
 - [ ] [Compression appears to finish instantly when, in fact, it does not.](https://youtu.be/TtsglXhbxno?t=732)
@@ -57,6 +57,19 @@ Note: Some of these may be subjective, and some may have been fixed without my k
   - **Possible fix:** Put the applications' descriptions in parentheses next to their names (e.g. "Kate (text editor)").
 - [ ] [Luke's system locks up when his TV turns on.](https://youtu.be/sS25mCLyQyk?t=416)
 
+## Some other suggestions for developers based on this challenge
+
+- [ ] [Sgt-Miller](https://github.com/Sgt-Miller)
+  > If Fastboot is turned on in Windows, the partition is mounted as read-only in Ubuntu. When copying, the error message says "no permission". Please make the error message more descriptive, like for NTFS systems it can say "It was mounted in read-only mode. To write to disk, ensure fast boot is disabled.
+- [ ] [Sgt-Miller](https://github.com/Sgt-Miller)
+  > Please turn on "Create link" option in Nautilus by default. Or provide creating shortcut by drag+ctrl+shift.
+- [ ] [Sgt-Miller](https://github.com/Sgt-Miller)
+  > I think gnome-tweaks should be installed by default. User shouldn't have to install an extra tool to change system fonts and to create startup programs.
+
 ## Contributing
 
 If you have a fix for one of these issues or you can describe it better than is described here, please [create an issue](https://github.com/glibg10b/ltt-linux-challenge-issues/issues/new/choose) or submit a pull request.
+
+## Other users' experience
+
+- #1
