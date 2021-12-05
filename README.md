@@ -49,7 +49,14 @@ Note: Some of these may be subjective, and some may have been fixed without my k
 - [ ] [Window movement in Mint while a game is open is laggy.](https://youtu.be/TtsglXhbxno?t=1294)
 - [ ] [Dolphin refuses to work as root.](https://youtu.be/TtsglXhbxno?t=1496)
 
+### WAN show
 
-## Contribution
+- [ ] [The "show desktop" button in KDE doesn't minimize all windows by default.](https://youtu.be/fJB9fdXWiiw?t=497)
+  - **Possible fix:** Replace it with the "Minimize all Windows" applet.
+- [ ] [The application names don't represent the jobs of those applications (e.g. "Kate").](https://youtu.be/fJB9fdXWiiw?t=702)
+  - **Possible fix:** Put the applications' descriptions in parentheses next to their names (e.g. "Kate (text editor)").
+- [ ] [Luke's system locks up when his TV turns on.](https://youtu.be/sS25mCLyQyk?t=416)
+
+## Contributing
 
 If you have a fix for one of these issues or you can describe it better than is described here, please [create an issue](https://github.com/glibg10b/ltt-linux-challenge-issues/issues/new/choose) or submit a pull request.
