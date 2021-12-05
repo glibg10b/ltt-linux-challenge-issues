@@ -4,7 +4,7 @@ A list of issues Linus and Luke experienced during the LTT Linux Daily Driver Ch
 
 ## The issues
 
-Note: Some of these may be subjective.
+Note: Some of these may be subjective, and some may have been fixed without my knowledge.
 
 ### Part 1
 
@@ -33,6 +33,23 @@ Note: Some of these may be subjective.
 - [ ] [OBS requires a restart (or something) for some things to work correctly, but doesn't say so.](https://youtu.be/3E8IGy6I9Wo?t=224)
 - [ ] [The option to show Snap, Flatpak, and AUR packages in Pamac is "hidden".](https://youtu.be/3E8IGy6I9Wo?t=540)
 - [ ] [Scrolling with the mouse wheel in KDE's volume mixer applet scrolls through both devices and levels of devices.](https://youtu.be/3E8IGy6I9Wo?t=573)
+
+### Part 3
+
+- [ ] [The "Moving" Dolphin notification is easy to miss on a large screen.](https://youtu.be/TtsglXhbxno?t=163)
+  - **Possible fix:** Hide the file (dot prefix) until it's done moving.
+- [ ] [Okular's dialog about "no available signing certificates" refers to a manual, which Linus completely ignored for some reason.](https://youtu.be/TtsglXhbxno?t=281)
+- [ ] [LibreOffice Calc doesn't export the bottom and right edges of a chart.](https://youtu.be/TtsglXhbxno?t=440)
+- [ ] [You can't drag a folder of fonts onto Linux Mint's font previewer to install them.](https://youtu.be/TtsglXhbxno?t=455)
+- [ ] [Something about Ark?](https://youtu.be/TtsglXhbxno?t=499)
+- [ ] [Compression appears to finish instantly when, in fact, it does not.](https://youtu.be/TtsglXhbxno?t=732)
+  - **Possible fix:** Hide the archive (dot prefix) until it's done compressing.
+- [ ] [Right-click drag doesn't work in Dolphin.](https://youtu.be/TtsglXhbxno?t=1024)
+- [ ] [Fullscreen doesn't work in MPlayer.](https://youtu.be/TtsglXhbxno?t=1234)
+- [ ] [Window movement in Mint while a game is open is laggy.](https://youtu.be/TtsglXhbxno?t=1294)
+- [ ] [Dolphin refuses to work as root.](https://youtu.be/TtsglXhbxno?t=1496)
+- [ ] 
+
 
 ## Contribution
 
