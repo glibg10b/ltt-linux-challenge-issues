@@ -48,7 +48,6 @@ Note: Some of these may be subjective, and some may have been fixed without my k
 - [ ] [Fullscreen doesn't work in MPlayer.](https://youtu.be/TtsglXhbxno?t=1234)
 - [ ] [Window movement in Mint while a game is open is laggy.](https://youtu.be/TtsglXhbxno?t=1294)
 - [ ] [Dolphin refuses to work as root.](https://youtu.be/TtsglXhbxno?t=1496)
-- [ ] 
 
 
 ## Contribution
