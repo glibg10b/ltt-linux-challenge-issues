@@ -33,7 +33,7 @@ Note: Some of these may be subjective, and some may have been fixed without my k
 - [ ] [OBS requires a restart (or something) for some things to work correctly, but doesn't say so.](https://youtu.be/3E8IGy6I9Wo?t=224)
 - [ ] [The option to show Snap, Flatpak, and AUR packages in Pamac is "hidden".](https://youtu.be/3E8IGy6I9Wo?t=540)
   - **Possible fix:** [#20](https://github.com/glibg10b/ltt-linux-challenge-issues/issues/20)
-- [x] [Scrolling with the mouse wheel in KDE's volume mixer applet scrolls through both devices and levels of devices.](https://youtu.be/3E8IGy6I9Wo?t=573) (Link wanted)
+- [ ] [Scrolling with the mouse wheel in KDE's volume mixer applet scrolls through both devices and levels of devices.](https://youtu.be/3E8IGy6I9Wo?t=573) ([WIP Fix](https://invent.kde.org/frameworks/plasma-framework/-/merge_requests/350))
 
 ### [Part 3](https://youtu.be/TtsglXhbxno)
 
