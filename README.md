@@ -6,7 +6,7 @@ A list of issues Linus and Luke experienced during the LTT Linux Daily Driver Ch
 
 Note: Some of these may be subjective, and some may have been fixed without my knowledge.
 
-### Part 1
+### [Part 1](https://www.youtube.com/watch?v=0506yDSgU7M)
 
 - [ ] [Searching "Best Linux distro for gaming" on Google brings up really bad websites.](https://www.youtube.com/watch?v=0506yDSgU7M&t=67s)
   - **Possible fix:** Make some good lists and use SEO to get them to show first.
@@ -23,7 +23,7 @@ Note: Some of these may be subjective, and some may have been fixed without my k
 - [ ] [The check boxes under "Hardware Configuration" look like radio buttons.](https://youtu.be/0506yDSgU7M?t=991)
 - [ ] [Cave Story+ looks weird.](https://youtu.be/0506yDSgU7M?t=1101)
 
-### Part 2
+### [Part 2](https://youtu.be/3E8IGy6I9Wo)
 
 - [ ] [Using apt or apt-get on Manjaro doesn't warn you that you're using the wrong package manager.](https://youtu.be/3E8IGy6I9Wo?t=107)
   - **Possible fix:** Maybe command-not-found can show a warning for it?
@@ -32,7 +32,7 @@ Note: Some of these may be subjective, and some may have been fixed without my k
 - [ ] [The option to show Snap, Flatpak, and AUR packages in Pamac is "hidden".](https://youtu.be/3E8IGy6I9Wo?t=540)
 - [ ] [Scrolling with the mouse wheel in KDE's volume mixer applet scrolls through both devices and levels of devices.](https://youtu.be/3E8IGy6I9Wo?t=573)
 
-### Part 3
+### [Part 3](https://youtu.be/TtsglXhbxno)
 
 - [ ] [The "Moving" Dolphin notification is easy to miss on a large screen.](https://youtu.be/TtsglXhbxno?t=163)
   - **Possible fix:** Hide the file (dot prefix) until it's done moving.
