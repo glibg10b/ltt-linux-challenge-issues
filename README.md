@@ -47,6 +47,7 @@ Note: Some of these may be subjective, and some may have been fixed without my k
 - [ ] [Window movement in Mint while a game is open is laggy.](https://youtu.be/TtsglXhbxno?t=1294)
   - **Bug report:** https://github.com/linuxmint/Cinnamon/issues/2465
 - [ ] [Dolphin refuses to work as root.](https://youtu.be/TtsglXhbxno?t=1496)
+  - **Possible fix:** [Open Dolphin as root](https://store.kde.org/p/1384645/) service menu.
 
 ### WAN show
 
