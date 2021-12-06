@@ -22,13 +22,11 @@ Note: Some of these may be subjective, and some may have been fixed without my k
 - [ ] [Linus doesn't like KDE Plasma's settings design.](https://youtu.be/0506yDSgU7M?t=982)
 - [ ] [The check boxes under "Hardware Configuration" look like radio buttons.](https://youtu.be/0506yDSgU7M?t=991)
 - [ ] [Cave Story+ looks weird.](https://youtu.be/0506yDSgU7M?t=1101)
-- [ ] [Linus's controller doesn't work in Cave Story+.](https://youtu.be/0506yDSgU7M?t=1105)
 
 ### Part 2
 
 - [ ] [Using apt or apt-get on Manjaro doesn't warn you that you're using the wrong package manager.](https://youtu.be/3E8IGy6I9Wo?t=107)
   - **Possible fix:** Maybe command-not-found can show a warning for it?
-- [ ] [NVENC doesn't show up as an option in OBS.](https://youtu.be/3E8IGy6I9Wo?t=160)
 - [ ] [NVIDIA X Server Settings is lacking.](https://youtu.be/3E8IGy6I9Wo?t=183)
 - [ ] [OBS requires a restart (or something) for some things to work correctly, but doesn't say so.](https://youtu.be/3E8IGy6I9Wo?t=224)
 - [ ] [The option to show Snap, Flatpak, and AUR packages in Pamac is "hidden".](https://youtu.be/3E8IGy6I9Wo?t=540)
