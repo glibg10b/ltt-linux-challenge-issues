@@ -42,7 +42,7 @@ Note: Some of these may be subjective, and some may have been fixed without my k
 - [x] [Linus can't find Dolphin's refresh button.](https://youtu.be/TtsglXhbxno?t=203) ([Fix](https://github.com/glibg10b/ltt-linux-challenge-issues/issues/12))
 - [ ] [Okular's dialog about "no available signing certificates" refers to a manual, which Linus completely ignored for some reason.](https://youtu.be/TtsglXhbxno?t=281)
 - [ ] [LibreOffice Calc didn't export the bottom and right edges of a chart.](https://youtu.be/TtsglXhbxno?t=440) [Sgt-Miller](https://github.com/Sgt-Miller) says it did for them.
-- [ ] [You can't drag a folder of fonts onto Linux Mint's font previewer to install them.](https://youtu.be/TtsglXhbxno?t=455)
+- [ ] [You can't drag a folder of fonts onto Linux Mint's font previewer to install them.](https://youtu.be/TtsglXhbxno?t=455) ([Open issue](https://gitlab.gnome.org/GNOME/gnome-font-viewer/-/issues/5))
 - [ ] [Dragging files from Ark on top of a folder in Dolphin, copies the files into the parent folder.](https://youtu.be/TtsglXhbxno?t=499)
 - [ ] [Compression appears to finish instantly when, in fact, it does not.](https://youtu.be/TtsglXhbxno?t=732)
   - **Possible fix:** Hide the archive (dot prefix) until it's done compressing.
