@@ -18,6 +18,7 @@ Note: Some of these may be subjective, and some may have been fixed without my k
   - **Possible fix:** Make it ship with Hardinfo installed.
 - [x] [Installing Steam uninstalls essential packages and it isn't clear that this is bad.](https://youtu.be/0506yDSgU7M?t=607) ([Fix](https://github.com/pop-os/apt/pull/1)) 
 - [ ] [USB errors on boot.](https://youtu.be/0506yDSgU7M?t=870)
+  - **Possible fix:** https://www.spinics.net/lists/usb/msg02644.html
 - [ ] [Installing Steam from Mint Software Manager shows "Removing...".](https://youtu.be/0506yDSgU7M?t=921)
 - [ ] [Linus doesn't like KDE Plasma's settings design.](https://youtu.be/0506yDSgU7M?t=982)
 - [ ] [The check boxes under "Hardware Configuration" look like radio buttons.](https://youtu.be/0506yDSgU7M?t=991)
