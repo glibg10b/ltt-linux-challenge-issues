@@ -37,8 +37,7 @@ Note: Some of these may be subjective, and some may have been fixed without my k
 ### [Part 3](https://youtu.be/TtsglXhbxno)
 
 - [ ] [The "Moving" Dolphin notification is easy to miss on a large screen.](https://youtu.be/TtsglXhbxno?t=163)
-  - **Possible fix:** Hide the file (dot prefix) until it's done moving.
-  - **Possible fix:** Show the progress on dolphin instead of a notification
+  - **Possible fix:** Hide the file (dot prefix) until it's done moving and show the progress in Dolphin instead of just a notification.
 - [x] [Linus can't find Dolphin's refresh button.](https://youtu.be/TtsglXhbxno?t=203) ([Fix](https://github.com/glibg10b/ltt-linux-challenge-issues/issues/12))
 - [ ] [Okular's dialog about "no available signing certificates" refers to a manual, which Linus completely ignored for some reason.](https://youtu.be/TtsglXhbxno?t=281)
 - [ ] [LibreOffice Calc didn't export the bottom and right edges of a chart.](https://youtu.be/TtsglXhbxno?t=440) [Sgt-Miller](https://github.com/Sgt-Miller) says it did for them.
