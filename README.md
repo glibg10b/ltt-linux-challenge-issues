@@ -21,7 +21,7 @@ Note: Some of these may be subjective, and some may have been fixed without my k
   - **Possible fix:** https://www.spinics.net/lists/usb/msg02644.html
 - [ ] [Installing Steam from Mint Software Manager shows "Removing...".](https://youtu.be/0506yDSgU7M?t=921)
 - [ ] [Linus doesn't like KDE Plasma's settings design.](https://youtu.be/0506yDSgU7M?t=982)
-- [ ] [The check boxes under "Hardware Configuration" look like radio buttons.](https://youtu.be/0506yDSgU7M?t=991)
+- [ ] [The check boxes under "Hardware Configuration" look like radio buttons.](https://youtu.be/0506yDSgU7M?t=991) ([Open issue](https://gitlab.manjaro.org/applications/manjaro-settings-manager/-/issues/194))
 - [ ] [Cave Story+ looks weird.](https://youtu.be/0506yDSgU7M?t=1101)
 
 ### [Part 2](https://youtu.be/3E8IGy6I9Wo)
