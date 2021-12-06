@@ -55,7 +55,7 @@ Note: Some of these may be subjective, and some may have been fixed without my k
 ### WAN show
 
 - [ ] [The "show desktop" button in KDE doesn't minimize all windows by default.](https://youtu.be/fJB9fdXWiiw?t=497)
-  - **Possible fix:** Replace it with the "Minimize all Windows" applet.
+  - **Possible fix:** Replace it with the "Minimize all Windows" applet ([#13](https://github.com/glibg10b/ltt-linux-challenge-issues/issues/13)).
 - [ ] [The application names don't represent the jobs of those applications (e.g. "Kate").](https://youtu.be/fJB9fdXWiiw?t=702)
   - **Possible fix:** Put the applications' descriptions in parentheses next to their names (e.g. "Kate (text editor)").
 - [ ] [Luke's system locks up when his TV turns on.](https://youtu.be/sS25mCLyQyk?t=416)
