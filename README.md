@@ -49,7 +49,7 @@ Note: Some of these may be subjective, and some may have been fixed without my k
   - **Possible fix:** Hide the archive (dot prefix) until it's done compressing.
 - [ ] [Right-click drag doesn't work in Dolphin.](https://youtu.be/TtsglXhbxno?t=1024)
   - **Possible fix:** Use left-click drag.
-- [ ] [Fullscreen doesn't work in MPlayer.](https://youtu.be/TtsglXhbxno?t=1234)
+- [ ] [Fullscreen doesn't work in VLC media player.](https://youtu.be/TtsglXhbxno?t=1234)
 - [ ] [Window movement in Mint while a game is open is laggy.](https://youtu.be/TtsglXhbxno?t=1294)
   - **Bug report:** https://github.com/linuxmint/Cinnamon/issues/2465
 - [ ] [Dolphin refuses to work as root.](https://youtu.be/TtsglXhbxno?t=1496)
