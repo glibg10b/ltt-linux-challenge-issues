@@ -50,6 +50,7 @@ Note: Just because LTT considers these problems, doesn't mean all of them are.
 - [ ] [Right-click drag doesn't work in Dolphin.](https://youtu.be/TtsglXhbxno?t=1024)
   - **Possible fix:** Use left-click drag.
 - [ ] [Fullscreen doesn't work in VLC media player.](https://youtu.be/TtsglXhbxno?t=1234)
+  - **Workaround:** Set the rendering backend to OpenGL 3.1 (System Settings/Hardware/Display and Monitor/Compositor)
 - [ ] [Window movement in Mint while a game is open is laggy.](https://youtu.be/TtsglXhbxno?t=1294)
   - **Bug report:** https://github.com/linuxmint/Cinnamon/issues/2465
 - [ ] [obs-studio on Arch doesn't come installed with the Browser Source plugin.](https://youtu.be/TtsglXhbxno?t=1408)
