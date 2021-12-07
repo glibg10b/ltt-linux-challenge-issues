@@ -9,7 +9,7 @@ Note: Some of these may be subjective, and some may have been fixed without my k
 ### [Part 1](https://www.youtube.com/watch?v=0506yDSgU7M)
 
 - [ ] [Searching "Best Linux distro for gaming" on Google brings up really bad websites.](https://www.youtube.com/watch?v=0506yDSgU7M&t=67s)
-  - **Possible fix:** Make some good lists and use SEO to get them to show first.
+  - **Possible fix:** Try [Distrochooser](https://distrochooser.de/), it's really good.
 - [ ] [The Mint USB behaved strangely with Luke's monitors the first time.](https://youtu.be/0506yDSgU7M?t=398)
 - [ ] [Mouse acceleration is on by default.](https://youtu.be/0506yDSgU7M?t=541)
   - **Possible fix:** Turn it off by default.
