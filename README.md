@@ -4,7 +4,7 @@ A list of issues Linus and Luke experienced during the LTT Linux Daily Driver Ch
 
 ## The issues
 
-Note: Some of these may be subjective, and some may have been fixed without my knowledge.
+Note: Just because LTT considers these problems, doesn't mean all of them are.
 
 ### [Part 1](https://www.youtube.com/watch?v=0506yDSgU7M)
 
