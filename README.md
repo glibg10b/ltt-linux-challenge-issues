@@ -74,7 +74,3 @@ Note: Some of these may be subjective, and some may have been fixed without my k
 ## Contributing
 
 If you have a fix for one of these issues or you can describe it better than is described here, please [create an issue](https://github.com/glibg10b/ltt-linux-challenge-issues/issues/new/choose) or submit a pull request.
-
-## Other users' experience
-
-- [#1](https://github.com/glibg10b/ltt-linux-challenge-issues/issues/1)
