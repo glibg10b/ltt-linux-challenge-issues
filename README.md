@@ -52,6 +52,8 @@ Note: Some of these may be subjective, and some may have been fixed without my k
 - [ ] [Fullscreen doesn't work in VLC media player.](https://youtu.be/TtsglXhbxno?t=1234)
 - [ ] [Window movement in Mint while a game is open is laggy.](https://youtu.be/TtsglXhbxno?t=1294)
   - **Bug report:** https://github.com/linuxmint/Cinnamon/issues/2465
+- [ ] [obs-studio on Arch doesn't come installed with the Browser Source plugin.](https://youtu.be/TtsglXhbxno?t=1408)
+  - **Possible fix:** Arch should package it with the Browser Source plugin. Until then, use the AUR.
 - [ ] [Dolphin refuses to work as root.](https://youtu.be/TtsglXhbxno?t=1496)
   - **Workaround:** [Open Dolphin as root](https://store.kde.org/p/1384645/) service menu.
     - **For Arch:** [aur/root](https://github.com/glibg10b/ltt-linux-challenge-issues/issues/22)
