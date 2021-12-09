@@ -11,8 +11,6 @@ Note: Just because LTT considers these problems, doesn't mean all of them are.
 - [ ] [Searching "Best Linux distro for gaming" on Google brings up really bad websites.](https://www.youtube.com/watch?v=0506yDSgU7M&t=67s)
   - **Possible fix:** Try [Distrochooser](https://distrochooser.de/), it's really good.
 - [ ] [The Mint USB behaved strangely with Luke's monitors the first time.](https://youtu.be/0506yDSgU7M?t=398)
-- [ ] [Mouse acceleration is on by default.](https://youtu.be/0506yDSgU7M?t=541)
-  - **Possible fix:** Turn it off by default.
 - [ ] [GoXLR acts as an input when configured as an output device.](https://youtu.be/0506yDSgU7M?t=552)
 - [ ] [Pop!\_OS doesn't have a noob-friendly way of checking what hardware is connected and whether the drivers work.](https://youtu.be/0506yDSgU7M?t=579)
   - **Possible fix:** Make it ship with Hardinfo installed.
