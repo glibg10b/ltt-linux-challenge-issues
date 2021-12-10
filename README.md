@@ -18,8 +18,7 @@ Note: Just because LTT considers these problems, doesn't mean all of them are.
 - [ ] [USB errors on boot.](https://youtu.be/0506yDSgU7M?t=870)
   - **Possible fix:** https://www.spinics.net/lists/usb/msg02644.html
 - [ ] [Installing Steam from Mint Software Manager shows "Removing...".](https://youtu.be/0506yDSgU7M?t=921)
-- [ ] [Linus doesn't like KDE Plasma's settings design.](https://youtu.be/0506yDSgU7M?t=982)
-  - **It is being worked on:** https://invent.kde.org/plasma/systemsettings/-/issues/13
+- [ ] [Linus doesn't like KDE Plasma's settings design.](https://youtu.be/0506yDSgU7M?t=982) ([WIP fix](https://invent.kde.org/plasma/systemsettings/-/issues/13))
 - [ ] [The check boxes under "Hardware Configuration" look like radio buttons.](https://youtu.be/0506yDSgU7M?t=991) ([Open issue](https://gitlab.manjaro.org/applications/manjaro-settings-manager/-/issues/194))
 - [ ] [Cave Story+ looks weird.](https://youtu.be/0506yDSgU7M?t=1101)
 
@@ -36,29 +35,23 @@ Note: Just because LTT considers these problems, doesn't mean all of them are.
 ### [Part 3](https://youtu.be/TtsglXhbxno)
 
 - [ ] [The "Moving" Dolphin notification is easy to miss on a large screen.](https://youtu.be/TtsglXhbxno?t=163) ([WIP fix](https://invent.kde.org/teams/usability/issue-board/-/issues/4))
-  - **Possible fix:** Hide the file (dot prefix) until it's done moving and show the progress in Dolphin instead of just a notification.
 - [x] [Linus can't find Dolphin's refresh button.](https://youtu.be/TtsglXhbxno?t=203) ([Fixed](https://github.com/glibg10b/ltt-linux-challenge-issues/issues/12))
-- [ ] [Okular's dialog about "no available signing certificates" refers to a manual, which does not explain the difference between a cryptographic signature and superimposing an image of a signature.](https://youtu.be/TtsglXhbxno?t=281) ([Open issue](https://invent.kde.org/teams/usability/issue-board/-/issues/5))
-  - **Possible fix:** Add a feature to superimpose an image of a signature without requiring a certificate ([Open bug report](https://bugs.kde.org/show_bug.cgi?id=315930))
-- [ ] [LibreOffice Calc didn't export the bottom and right edges of a chart.](https://youtu.be/TtsglXhbxno?t=440) [Sgt-Miller](https://github.com/Sgt-Miller) says it did for them.
+- [ ] [Okular's dialog about "no available signing certificates" refers to a manual, which does not explain the difference between a cryptographic signature and superimposing an image of a signature.](https://youtu.be/TtsglXhbxno?t=281) ([Open issue](https://invent.kde.org/teams/usability/issue-board/-/issues/5), [Open bug report](https://bugs.kde.org/show_bug.cgi?id=315930))
 - [ ] [You can't drag a folder of fonts onto Linux Mint's font previewer to install them.](https://youtu.be/TtsglXhbxno?t=455) ([Open issue](https://gitlab.gnome.org/GNOME/gnome-font-viewer/-/issues/5))
-- [ ] [Dragging files from Ark on top of a folder in Dolphin, copies the files into the parent folder.](https://youtu.be/TtsglXhbxno?t=499) ([Open issue](https://invent.kde.org/teams/usability/issue-board/-/issues/8))
+- [ ] [Dragging files from Ark on top of a folder in Dolphin copies the files into the parent folder.](https://youtu.be/TtsglXhbxno?t=499) ([Open issue](https://invent.kde.org/teams/usability/issue-board/-/issues/8))
 - [ ] [Compression appears to finish instantly when, in fact, it does not.](https://youtu.be/TtsglXhbxno?t=732) ([Open issue](https://invent.kde.org/teams/usability/issue-board/-/issues/3))
 - [ ] [Ark creates a temp file with a weird extension when compressing.](https://youtu.be/TtsglXhbxno?t=732) ([WIP fix](https://invent.kde.org/teams/usability/issue-board/-/issues/2))
-  - **Possible fix:** Hide the archive (dot prefix) until it's done compressing.
 - [ ] [Ark doesn't prompt for filename when compressing multiple files](https://youtu.be/TtsglXhbxno?t=816) ([Open issue](https://invent.kde.org/teams/usability/issue-board/-/issues/10))
 - [ ] [Right-click drag doesn't work in Dolphin.](https://youtu.be/TtsglXhbxno?t=1024)
   - **Possible fix:** Use left-click drag.
 - [ ] [Fullscreen doesn't work in VLC media player.](https://youtu.be/TtsglXhbxno?t=1234)
   - **Workaround:** Set the rendering backend to OpenGL 3.1 (System Settings/Hardware/Display and Monitor/Compositor)
-- [ ] [Window movement in Mint while a game is open is laggy.](https://youtu.be/TtsglXhbxno?t=1294)
-  - **Bug report:** https://github.com/linuxmint/Cinnamon/issues/2465
+- [ ] [Window movement in Mint while a game is open is laggy.](https://youtu.be/TtsglXhbxno?t=1294) ([Open issue](https://github.com/linuxmint/Cinnamon/issues/2465))
 - [ ] [obs-studio on Arch doesn't come installed with the Browser Source plugin.](https://youtu.be/TtsglXhbxno?t=1408)
   - **Possible fix:** Arch should package it with the Browser Source plugin. Until then, use the AUR.
 - [ ] [Dolphin refuses to work as root.](https://youtu.be/TtsglXhbxno?t=1496) ([WIP fix](https://invent.kde.org/teams/usability/issue-board/-/issues/6))
   - **Workaround:** [Open Dolphin as root](https://store.kde.org/p/1384645/) service menu.
     - **For Arch:** [aur/root](https://github.com/glibg10b/ltt-linux-challenge-issues/issues/22)
-  - **Fix:** [PolKit integration](https://bugs.kde.org/show_bug.cgi?id=179678), [Merge Request](https://invent.kde.org/frameworks/kio/-/merge_requests/143)
 
 ### WAN show
 
@@ -68,10 +61,6 @@ Note: Just because LTT considers these problems, doesn't mean all of them are.
   - **Possible fix:** Put the applications' descriptions in parentheses next to their names (e.g. "Kate (text editor)").
 - [ ] [Luke's system locks up when his TV turns on.](https://youtu.be/sS25mCLyQyk?t=416)
 
-## Some other suggestions for developers based on this challenge
-
-- [#1](https://github.com/glibg10b/ltt-linux-challenge-issues/issues/1)
-
 ## Contributing
 
-If you have a fix for one of these issues or you can describe it better than is described here, please [create an issue](https://github.com/glibg10b/ltt-linux-challenge-issues/issues/new/choose) or submit a pull request.
+If you have a fix for one of these issues or you can describe it better than is described here, please [create an issue](https://github.com/glibg10b/ltt-linux-challenge-issues/issues/new/choose) or submit a pull request. *Links to bug reports/merge requests are greatly appreciated!*
