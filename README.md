@@ -40,7 +40,7 @@ Note: Just because LTT considers these problems, doesn't mean all of them are.
 - [ ] [You can't drag a folder of fonts onto Linux Mint's font previewer to install them.](https://youtu.be/TtsglXhbxno?t=455) ([Open issue](https://gitlab.gnome.org/GNOME/gnome-font-viewer/-/issues/5))
 - [ ] [Dragging files from Ark on top of a folder in Dolphin copies the files into the parent folder.](https://youtu.be/TtsglXhbxno?t=499) ([Open issue](https://invent.kde.org/teams/usability/issue-board/-/issues/8))
 - [ ] [Compression appears to finish instantly when, in fact, it does not.](https://youtu.be/TtsglXhbxno?t=732) ([Open issue](https://invent.kde.org/teams/usability/issue-board/-/issues/3))
-- [ ] [Ark creates a temp file with a weird extension when compressing.](https://youtu.be/TtsglXhbxno?t=732) ([WIP fix](https://invent.kde.org/teams/usability/issue-board/-/issues/2))
+- [x] [Ark creates a temp file with a weird extension when compressing.](https://youtu.be/TtsglXhbxno?t=732) ([Fixed](https://invent.kde.org/utilities/ark/-/merge_requests/79))
 - [ ] [Ark doesn't prompt for filename when compressing multiple files](https://youtu.be/TtsglXhbxno?t=816) ([Open issue](https://invent.kde.org/teams/usability/issue-board/-/issues/10))
 - [ ] [Right-click drag doesn't work in Dolphin.](https://youtu.be/TtsglXhbxno?t=1024)
   - **Possible fix:** Use left-click drag.
