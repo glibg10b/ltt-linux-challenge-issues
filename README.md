@@ -59,7 +59,7 @@ Note: Just because LTT considers these problems, doesn't mean all of them are.
   - **Possible fix:** Replace it with the "Minimize all Windows" applet ([#13](https://github.com/glibg10b/ltt-linux-challenge-issues/issues/13)).
 - [ ] [The application names don't represent the jobs of those applications (e.g. "Kate").](https://youtu.be/fJB9fdXWiiw?t=702)
   - **Possible fix:** Put the applications' descriptions in parentheses next to their names (e.g. "Kate (text editor)").
-- [ ] [Luke's system locks up when his TV turns on.](https://youtu.be/sS25mCLyQyk?t=416)
+- [x] [Luke's system locks up when his TV turns on.](https://youtu.be/sS25mCLyQyk?t=416) ([Fixed](https://bugs.kde.org/show_bug.cgi?id=446699))
 
 ## Contributing
 
