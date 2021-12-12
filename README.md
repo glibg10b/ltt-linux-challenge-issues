@@ -63,4 +63,6 @@ Note: Just because LTT considers these problems, doesn't mean all of them are.
 
 ## Contributing
 
-If you have a fix for one of these issues or you can describe it better than is described here, please [create an issue](https://github.com/glibg10b/ltt-linux-challenge-issues/issues/new/choose) or submit a pull request. *Links to bug reports/merge requests are greatly appreciated!*
+If you have a fix for one of these issues or you can describe it better than is described here, please [create an issue](https://github.com/glibg10b/ltt-linux-challenge-issues/issues/new/choose) or submit a pull request. Discussions can be started [here](https://github.com/glibg10b/ltt-linux-challenge-issues/discussions/categories/general). 
+
+*Links to bug reports/merge requests are greatly appreciated!*
