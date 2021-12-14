@@ -4,14 +4,12 @@ A list of issues Linus and Luke experienced during the LTT Linux Daily Driver Ch
 
 ## The issues
 
-Note: Just because LTT considers these problems, doesn't mean all of them are.
-
 ### [Part 1](https://www.youtube.com/watch?v=0506yDSgU7M)
 
 - [ ] [GoXLR compatibility.](https://youtu.be/0506yDSgU7M?t=552)
 - [ ] [**Pop!\_OS**: no alternative to HWiNFO.](https://youtu.be/0506yDSgU7M?t=579)
   - **Possible fix:** Make it ship with Hardinfo.
-- [x] [[**Fixed**](https://github.com/pop-os/apt/pull/1)] [**Pop!\_OS:** + **Apt**: Installing Steam uninstalled essential packages and it isn't clear that this is bad.](https://youtu.be/0506yDSgU7M?t=607) 
+- [x] [[**Fixed**](https://github.com/pop-os/apt/pull/1)] [**Pop!\_OS:** + **Apt**: Installing Steam uninstalled essential packages and it wasn't clear that that was bad.](https://youtu.be/0506yDSgU7M?t=607) 
 - [ ] [USB errors on boot.](https://youtu.be/0506yDSgU7M?t=870)
   - **Possible fix:** https://www.spinics.net/lists/usb/msg02644.html
 - [ ] [**Mint**: "Removing..." when installing Steam.](https://youtu.be/0506yDSgU7M?t=921)
@@ -21,7 +19,7 @@ Note: Just because LTT considers these problems, doesn't mean all of them are.
 
 ### [Part 2](https://youtu.be/3E8IGy6I9Wo)
 
-- [ ] [**Manjaro**: `command not found: apt` isn't enough.](https://youtu.be/3E8IGy6I9Wo?t=107)
+- [ ] [**Manjaro**: `command not found: apt` apparently isn't enough.](https://youtu.be/3E8IGy6I9Wo?t=107)
   - **Possible fix:** Maybe command-not-found can show a warning for it? Or [#10](https://github.com/glibg10b/ltt-linux-challenge-issues/issues/10).
 - [ ] [**NVIDIA**: X Server Settings is lacking.](https://youtu.be/3E8IGy6I9Wo?t=183)
 - [ ] [**OBS**: Requires restart for some things to work correctly, but doesn't say so.](https://youtu.be/3E8IGy6I9Wo?t=224)
@@ -56,7 +54,7 @@ Note: Just because LTT considers these problems, doesn't mean all of them are.
   - **Workaround:** Replace it with the "Minimize all Windows" applet ([#13](https://github.com/glibg10b/ltt-linux-challenge-issues/issues/13)).
 - [ ] [**Plasma**: Applications' names don't represent their jobs (e.g. "Kate").](https://youtu.be/fJB9fdXWiiw?t=702)
   - **Possible fix:** Put the applications' descriptions in parentheses next to their names (e.g. "Kate (text editor)").
-- [x] [[**Fixed**](https://bugs.kde.org/show_bug.cgi?id=446699)] [Luke's system locks up when his TV turns on.](https://youtu.be/sS25mCLyQyk?t=416)
+- [x] [[**Fixed**](https://bugs.kde.org/show_bug.cgi?id=446699)] [Luke's system locked up when his TV turned on.](https://youtu.be/sS25mCLyQyk?t=416)
 
 ## Contributing
 
