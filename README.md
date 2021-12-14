@@ -11,7 +11,7 @@ Note: Just because LTT considers these problems, doesn't mean all of them are.
 - [ ] [GoXLR compatibility.](https://youtu.be/0506yDSgU7M?t=552)
 - [ ] [**Pop!\_OS**: no alternative to HWiNFO.](https://youtu.be/0506yDSgU7M?t=579)
   - **Possible fix:** Make it ship with Hardinfo.
-- [x] [**Pop!\_OS:** + **Apt**:Installing Steam uninstalled essential packages and it isn't clear that this is bad.](https://youtu.be/0506yDSgU7M?t=607) ([**Fixed**](https://github.com/pop-os/apt/pull/1))
+- [x] [**Pop!\_OS:** + **Apt**: Installing Steam uninstalled essential packages and it isn't clear that this is bad.](https://youtu.be/0506yDSgU7M?t=607) ([**Fixed**](https://github.com/pop-os/apt/pull/1))
 - [ ] [USB errors on boot.](https://youtu.be/0506yDSgU7M?t=870)
   - **Possible fix:** https://www.spinics.net/lists/usb/msg02644.html
 - [ ] [**Mint**: "Removing..." when installing Steam.](https://youtu.be/0506yDSgU7M?t=921)
