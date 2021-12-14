@@ -13,7 +13,7 @@ Note: Just because LTT considers these problems, doesn't mean all of them are.
   - **Possible fix:** Make it ship with Hardinfo.
 - [x] [**Pop!\_OS:** + **Apt**:Installing Steam uninstalled essential packages and it isn't clear that this is bad.](https://youtu.be/0506yDSgU7M?t=607) ([**Fixed**](https://github.com/pop-os/apt/pull/1))
 - [ ] [USB errors on boot.](https://youtu.be/0506yDSgU7M?t=870)
-  - **Workaround:** https://www.spinics.net/lists/usb/msg02644.html
+  - **Possible fix:** https://www.spinics.net/lists/usb/msg02644.html
 - [ ] [**Mint**: "Removing..." when installing Steam.](https://youtu.be/0506yDSgU7M?t=921)
 - [ ] [**Plasma**: "Configure Audio Volume..." button unintuitive.](https://youtu.be/0506yDSgU7M?t=982) ([Open issue](https://invent.kde.org/teams/usability/issue-board/-/issues/11))
 - [ ] [**Plasma**: Check boxes under "Hardware Configuration" look like radio buttons.](https://youtu.be/0506yDSgU7M?t=991) ([Open issue](https://gitlab.manjaro.org/applications/manjaro-settings-manager/-/issues/194))
