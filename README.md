@@ -14,7 +14,7 @@ A list of issues Linus and Luke experienced during the LTT Linux Daily Driver Ch
   - **Possible fix:** https://www.spinics.net/lists/usb/msg02644.html
 - [ ] [**Mint**: "Removing..." when installing Steam.](https://youtu.be/0506yDSgU7M?t=921)
 - [ ] [[Open issue](https://invent.kde.org/teams/usability/issue-board/-/issues/11)] [**Plasma**: "Configure Audio Volume..." button unintuitive.](https://youtu.be/0506yDSgU7M?t=982)
-- [ ] [[Open issue](https://gitlab.manjaro.org/applications/manjaro-settings-manager/-/issues/194)] [**Plasma**: Check boxes under "Hardware Configuration" look like radio buttons.](https://youtu.be/0506yDSgU7M?t=991)
+- [ ] [[Open issue](https://gitlab.manjaro.org/applications/manjaro-settings-manager/-/issues/194)] [**Mint**: Check boxes under "Hardware Configuration" look like radio buttons.](https://youtu.be/0506yDSgU7M?t=991)
 - [ ] [**Cave Story+**: Off-center.](https://youtu.be/0506yDSgU7M?t=1101)
 
 ### [Part 2](https://youtu.be/3E8IGy6I9Wo)
