@@ -30,6 +30,7 @@ A list of issues Linus and Luke experienced during the LTT Linux Daily Driver Ch
 ### [Part 3](https://youtu.be/TtsglXhbxno)
 
 - [ ] [[WIP fix](https://invent.kde.org/teams/usability/issue-board/-/issues/4)] [**Plasma**: Notifications easy to miss on large screens.](https://youtu.be/TtsglXhbxno?t=163)
+- [x] [[**Fixed**](https://invent.kde.org/graphics/okular/-/merge_requests/516)] [**Plasma**: Okular asked you to draw a rectangle even if you didn't have any signatures](https://youtu.be/TtsglXhbxno?t=266).
 - [ ] [[Open issue](https://invent.kde.org/teams/usability/issue-board/-/issues/5), [open bug report](https://bugs.kde.org/show_bug.cgi?id=315930)] [**Plasma**: Okular signature support is broken.](https://youtu.be/TtsglXhbxno?t=281)
 - [ ] [[Open issue](https://gitlab.gnome.org/GNOME/gnome-font-viewer/-/issues/5)] [**Linux Mint**: Can't drag a folder of fonts onto font previewer to install them.](https://youtu.be/TtsglXhbxno?t=455)
 - [ ] [[Open issue](https://invent.kde.org/teams/usability/issue-board/-/issues/8)] [**Ark**: Dragging files on top of a folder in Dolphin copies them into the parent folder.](https://youtu.be/TtsglXhbxno?t=499)
