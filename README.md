@@ -51,8 +51,7 @@ A list of issues Linus and Luke experienced during the LTT Linux Daily Driver Ch
 
 ### WAN show
 
-- [ ] [**Plasma**: "Show Desktop" doesn't work like in Windows.](https://youtu.be/fJB9fdXWiiw?t=497)
-  - **Workaround:** Replace it with the "Minimize all Windows" applet ([#13](https://github.com/glibg10b/ltt-linux-challenge-issues/issues/13)).
+- [ ] [[Open issue](https://invent.kde.org/teams/usability/issue-board/-/issues/12)] [**Plasma**: "Show Desktop" doesn't work like in Windows.](https://youtu.be/fJB9fdXWiiw?t=497)
 - [ ] [**Plasma**: Applications' names don't represent their jobs (e.g. "Kate").](https://youtu.be/fJB9fdXWiiw?t=702)
   - **Possible fix:** Put the applications' descriptions in parentheses next to their names (e.g. "Kate (text editor)").
 - [ ] [**Mint**: Luke's system locked up when his TV turned on.](https://youtu.be/sS25mCLyQyk?t=416)
