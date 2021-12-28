@@ -45,9 +45,7 @@ A list of issues Linus and Luke experienced during the LTT Linux Daily Driver Ch
 - [ ] [**Arch**: obs-studio doesn't come installed with the Browser Source plugin.](https://youtu.be/TtsglXhbxno?t=1408)
   - **Possible fix:** Arch should package it with the Browser Source plugin. 
   - **Workaround**: Use the AUR.
-- [ ] [[WIP fix](https://invent.kde.org/teams/usability/issue-board/-/issues/6)] [**Dolphin**: Doesn't work as root.](https://youtu.be/TtsglXhbxno?t=1496)
-  - **Workaround:** [Open Dolphin as root](https://store.kde.org/p/1384645/) service menu.
-    - **For Arch:** [aur/root](https://github.com/glibg10b/ltt-linux-challenge-issues/issues/22)
+- [x] [[**Fixed**](https://invent.kde.org/teams/usability/issue-board/-/issues/6)] [**Dolphin**: Didn't work as root.](https://youtu.be/TtsglXhbxno?t=1496)
 
 ### WAN show
 
