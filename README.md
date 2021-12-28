@@ -25,7 +25,7 @@ A list of issues Linus and Luke experienced during the LTT Linux Daily Driver Ch
 - [ ] [**OBS**: Requires restart for some things to work correctly, but doesn't say so.](https://youtu.be/3E8IGy6I9Wo?t=224)
 - [ ] [**Manjaro**: The option to show Snap, Flatpak, and AUR packages in Pamac is "hidden".](https://youtu.be/3E8IGy6I9Wo?t=540)
   - **Possible fix:** [#20](https://github.com/glibg10b/ltt-linux-challenge-issues/issues/20)
-- [x] [[**Fixed**](https://invent.kde.org/teams/usability/issue-board/-/issues/9)] [**Plasma**: Mouse wheel in "Audio Volume" scrolls through both devices and levels of devices.](https://youtu.be/3E8IGy6I9Wo?t=573)
+- [x] [[**Fixed**](https://invent.kde.org/teams/usability/issue-board/-/issues/9)] [**Plasma**: Mouse wheel in "Audio Volume" scrolled through both devices and levels of devices.](https://youtu.be/3E8IGy6I9Wo?t=573)
 
 ### [Part 3](https://youtu.be/TtsglXhbxno)
 
