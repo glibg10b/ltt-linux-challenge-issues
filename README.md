@@ -7,8 +7,6 @@ A list of issues Linus and Luke experienced during the LTT Linux Daily Driver Ch
 ### [Part 1](https://www.youtube.com/watch?v=0506yDSgU7M)
 
 - [ ] [GoXLR compatibility.](https://youtu.be/0506yDSgU7M?t=552)
-- [ ] [**Pop!\_OS**: no alternative to HWiNFO.](https://youtu.be/0506yDSgU7M?t=579)
-  - **Possible fix:** Make it ship with Hardinfo.
 - [x] [[**Fixed**](https://github.com/pop-os/apt/pull/1)] [**Pop!\_OS:** + **Apt**: Installing Steam uninstalled essential packages and it wasn't clear that that was bad.](https://youtu.be/0506yDSgU7M?t=607) 
 - [ ] [USB errors on boot.](https://youtu.be/0506yDSgU7M?t=870)
   - **Possible fix:** https://www.spinics.net/lists/usb/msg02644.html
