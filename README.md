@@ -4,10 +4,11 @@ Is Linux up to Linus Sebastian's Standards Yet?
 
 ## Let's see...
 
-### General issues
+### General
 
 - [x] [**Pop!\_OS:** + **Apt**: Installing Steam doesn't uninstall essential packages. Apt also prevents you from uninstalling essential packages](https://youtu.be/0506yDSgU7M?t=607)
 - [ ] [**Mint**: "Removing..." when installing Steam](https://youtu.be/0506yDSgU7M?t=921)
+- [x] [4K videos play normally](https://youtu.be/TtsglXhbxno?t=974)
 - [ ] [Fullscreen doesn't work in VLC media player](https://youtu.be/TtsglXhbxno?t=1234)
   - **Workaround:** Set the rendering backend to OpenGL 3.1 (System Settings/Hardware/Display and Monitor/Compositor)
 - [ ] [**Mint:** Window movement while a game is open is laggy](https://youtu.be/TtsglXhbxno?t=1294)
@@ -20,22 +21,28 @@ Is Linux up to Linus Sebastian's Standards Yet?
 
 - [ ] [**Plasma**: "Configure Audio Volume..." button unintuitive.](https://youtu.be/0506yDSgU7M?t=982)
 - [ ] [**Mint**: Check boxes under "Hardware Configuration" look like radio buttons](https://youtu.be/0506yDSgU7M?t=991)
-- [ ] [**Plasma**: Notifications easy to miss on large screens](https://youtu.be/TtsglXhbxno?t=163)
-- [x] [**Plasma**: Okular doesn't ask you to draw a rectangle if you have no signatures](https://youtu.be/TtsglXhbxno?t=266).
-- [ ] [**Plasma**: Okular signature support is broken](https://youtu.be/TtsglXhbxno?t=281)
-- [ ] [**Linux Mint**: Can't drag a folder of fonts onto font previewer to install them.](https://youtu.be/TtsglXhbxno?t=455)
-- [ ] [**Ark**: Dragging files on top of a folder in Dolphin copies them into the parent folder](https://youtu.be/TtsglXhbxno?t=499)
-- [ ] [**Ark**: Compression appears to finish instantly when, in fact, it does not](https://youtu.be/TtsglXhbxno?t=732)
-- [x] [**Ark**: Compressing files have a user-friendly .part extension](https://youtu.be/TtsglXhbxno?t=732)
-- [ ] [**Ark**: Doesn't prompt for filename when compressing multiple files](https://youtu.be/TtsglXhbxno?t=816)
-- [ ] [**Dolphin**: Right-click drag doesn't work like in Windows](https://youtu.be/TtsglXhbxno?t=1024)
-  - **Workaround:** Use left-click drag
 - [ ] [**Manjaro**: `command not found: apt` apparently isn't enough](https://youtu.be/3E8IGy6I9Wo?t=107)
   - **Possible fix:** Maybe command-not-found can show a warning for it? Or [#10](https://github.com/glibg10b/ltt-linux-challenge-issues/issues/10)
 - [ ] [**OBS**: Requires restart for some things to work correctly, but doesn't say so](https://youtu.be/3E8IGy6I9Wo?t=224)
 - [ ] [**Manjaro**: The option to show Snap, Flatpak, and AUR packages in Pamac is "hidden"](https://youtu.be/3E8IGy6I9Wo?t=540)
   - **Possible fix:** [#20](https://github.com/glibg10b/ltt-linux-challenge-issues/issues/20)
 - [x] [**Plasma**: Mouse wheel in "Audio Volume" doesn't scroll through devices and levels of devices at the same time](https://youtu.be/3E8IGy6I9Wo?t=573)
+- [ ] [**Plasma**: Notifications easy to miss on large screens](https://youtu.be/TtsglXhbxno?t=163)
+- [ ] [**Plasma**: Okular signature support is broken](https://youtu.be/TtsglXhbxno?t=281)
+- [x] [**LibreOffice Calc**: Exporting a chart is easy](https://youtu.be/TtsglXhbxno?t=423)
+- [ ] [**Linux Mint**: Can't drag a folder of fonts onto font previewer to install them.](https://youtu.be/TtsglXhbxno?t=455)
+- [x] [Installing fonts is easy](https://youtu.be/TtsglXhbxno?t=566)
+- [ ] [**Ark**: Dragging files on top of a folder in Dolphin copies them into the parent folder](https://youtu.be/TtsglXhbxno?t=499)
+- [ ] [**Ark**: Compression appears to finish instantly when, in fact, it does not](https://youtu.be/TtsglXhbxno?t=732)
+- [x] [**Ark**: Compressing files have an idiot-proof .part extension](https://youtu.be/TtsglXhbxno?t=732)
+- [ ] [**Ark**: Doesn't prompt for filename when compressing multiple files](https://youtu.be/TtsglXhbxno?t=816)
+- [x] [Taking a screenshot is easy](https://youtu.be/TtsglXhbxno?t=940)
+- [x] [Adding startup applications is easy](https://youtu.be/TtsglXhbxno?t=964)
+- [x] [Search keywords are user-friendly](https://youtu.be/TtsglXhbxno?t=1001)
+- [ ] [**Dolphin**: Right-click drag doesn't work like in Windows](https://youtu.be/TtsglXhbxno?t=1024)
+  - **Workaround:** Use left-click drag
+- [x] [Making a shortcut is easy](https://youtu.be/TtsglXhbxno?t=1036)
+- [x] [Mounting a network share is easy](https://youtu.be/TtsglXhbxno?t=1076)
 - [x] [**Dolphin**: Supports root access](https://youtu.be/TtsglXhbxno?t=1496)
 - [ ] [**Plasma**: "Show Desktop" doesn't work like in Windows](https://youtu.be/fJB9fdXWiiw?t=497)
 - [ ] [**Plasma**: Applications' names don't represent their jobs (e.g. "Kate")](https://youtu.be/fJB9fdXWiiw?t=702)
@@ -43,16 +50,22 @@ Is Linux up to Linus Sebastian's Standards Yet?
 
 ### Hardware
 
+- [x] [Thunderbolt just works](https://youtu.be/0506yDSgU7M?t=445)
+- [ ] [GoXLR compatibility](https://youtu.be/0506yDSgU7M?t=552)
 - [ ] [USB errors on boot](https://youtu.be/0506yDSgU7M?t=870)
   - **Possible fix:** https://www.spinics.net/lists/usb/msg02644.html
-- [ ] [GoXLR compatibility](https://youtu.be/0506yDSgU7M?t=552)
+- [x] [Controllers just work](https://youtu.be/0506yDSgU7M?t=987)
+- [x] [Printing just works](https://youtu.be/TtsglXhbxno?t=600)
 - [ ] [**Mint**: Luke's system locked up when his TV turned on](https://youtu.be/sS25mCLyQyk?t=416)
 
 ### Gaming
 
 - [ ] [**Cave Story+**: Off-center](https://youtu.be/0506yDSgU7M?t=1101)
   - **Workaround**: https://steamcommunity.com/sharedfiles/filedetails/?id=129059216
+- [x] [Native Linux games work well](https://youtu.be/Rlg4K16ujFw?t=218)
 - [ ] [**Xbox One wireless controller**: Only works when plugged in](https://youtu.be/Rlg4K16ujFw?t=228)
+  - **Workaround**: [xow](https://youtu.be/0506yDSgU7M?t=987)
+- [x] [**DOOM Eternal**: Performance is great](https://youtu.be/Rlg4K16ujFw?t=369)
 - [ ] [**CS:GO**: Stutters](https://youtu.be/Rlg4K16ujFw?t=411)
 - [ ] [**Easy Anti-Cheat**: Doesn't support Linux](https://youtu.be/Rlg4K16ujFw?t=421)
 - [ ] [**It Takes Two**: Doesn't support multiple controllers](https://youtu.be/Rlg4K16ujFw?t=510)
@@ -61,6 +74,9 @@ Is Linux up to Linus Sebastian's Standards Yet?
 - [ ] [**Minecraft Dungeons**: Hard to get working through the Minecraft Launcher](https://youtu.be/Rlg4K16ujFw?t=757)
 - [ ] [**Escape from Tarkov**: Is broken](https://youtu.be/Rlg4K16ujFw?t=834)
 - [ ] [**Genshin Impact**: Doesn't support Linux](https://youtu.be/Rlg4K16ujFw?t=850)
+- [x] [**Minecraft Java**](https://youtu.be/Rlg4K16ujFw?t=908)
+- [x] [**Don't starve together**](https://youtu.be/Rlg4K16ujFw?t=919)
+- [x] [**Towerfall**](https://youtu.be/Rlg4K16ujFw?t=927)
 
 ## But these issues are being worked on, right?
 
