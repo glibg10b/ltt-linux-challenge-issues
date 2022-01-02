@@ -46,6 +46,18 @@ A list of issues Linus and Luke experienced during the LTT Linux Daily Driver Ch
   - **Workaround**: Use the AUR.
 - [x] [[**Fixed**](https://invent.kde.org/teams/usability/issue-board/-/issues/6)] [**Dolphin**: Didn't work as root.](https://youtu.be/TtsglXhbxno?t=1496)
 
+### [Part 4](https://youtu.be/Rlg4K16ujFw)
+
+- [ ] [**Xbox One wireless controller**: Only works when plugged in](https://youtu.be/Rlg4K16ujFw?t=228)
+- [ ] [**CS:GO**: Stutters](https://youtu.be/Rlg4K16ujFw?t=411)
+- [ ] [**Easy Anti-Cheat**: Doesn't support Linux](https://youtu.be/Rlg4K16ujFw?t=421)
+- [ ] [**It Takes Two**: Doesn't support multiple controllers](https://youtu.be/Rlg4K16ujFw?t=510)
+- [ ] [**Forged Alliance Forever**: A pain to get working](https://youtu.be/Rlg4K16ujFw?t=572)
+- [ ] [**Anno 1800**: Doesn't support multiplayer on Linux](https://youtu.be/Rlg4K16ujFw?t=717)
+- [ ] [**Minecraft Dungeons**: Hard to get working through the Minecraft Launcher](https://youtu.be/Rlg4K16ujFw?t=757)
+- [ ] [**Escape from Tarkov**: Is broken](https://youtu.be/Rlg4K16ujFw?t=834)
+- [ ] [**Genshin Impact**: Doesn't support Linux](https://youtu.be/Rlg4K16ujFw?t=850)
+
 ### WAN show
 
 - [ ] [[Open issue](https://invent.kde.org/teams/usability/issue-board/-/issues/12)] [**Plasma**: "Show Desktop" doesn't work like in Windows.](https://youtu.be/fJB9fdXWiiw?t=497)
