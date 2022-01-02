@@ -66,6 +66,6 @@ Is Linux up to Linus Sebastian's Standards Yet?
 
 If you have a workaround for one of these issues, please [create an issue](https://github.com/glibg10b/ltt-linux-challenge-issues/issues/new/choose) or submit a pull request. Discussions can be started [here](https://github.com/glibg10b/ltt-linux-challenge-issues/discussions/categories/general)
 
-Thanks to [u/Xornial](https://www.reddit.com/user/Xornial/) for hosting <arewelinusyet.com>!
+Thanks to [u/Xornial](https://www.reddit.com/user/Xornial/) for hosting [arewelinusyet.com](https://arewelinusyet.com/)!
 
 *Links to bug reports/merge requests are greatly appreciated!*
