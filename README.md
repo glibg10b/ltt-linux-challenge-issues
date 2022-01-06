@@ -51,7 +51,7 @@ Is Linux up to Linus Sebastian's Standards Yet?
 ### Hardware
 
 - [x] [Thunderbolt just works](https://youtu.be/0506yDSgU7M?t=445)
-- [ ] [GoXLR compatibility](https://youtu.be/0506yDSgU7M?t=552)
+- [ ] [GoXLR support](https://youtu.be/0506yDSgU7M?t=552)
 - [ ] [USB errors on boot](https://youtu.be/0506yDSgU7M?t=870)
   - **Possible fix:** https://www.spinics.net/lists/usb/msg02644.html
 - [x] [Controllers just work](https://youtu.be/0506yDSgU7M?t=987)
