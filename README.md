@@ -12,9 +12,8 @@ Is Linux up to Linus Sebastian's Standards Yet?
 - [ ] [Fullscreen doesn't work in VLC media player](https://youtu.be/TtsglXhbxno?t=1234)
   - **Workaround:** Set the rendering backend to OpenGL 3.1 (System Settings/Hardware/Display and Monitor/Compositor)
 - [ ] [**Mint:** Window movement while a game is open is laggy](https://youtu.be/TtsglXhbxno?t=1294) [<sup>(issue)</sup>](https://github.com/linuxmint/Cinnamon/issues/2465)
-- [ ] [**Arch**: obs-studio doesn't come installed with the Browser Source plugin](https://youtu.be/TtsglXhbxno?t=1408)
-  - **Possible fix:** Arch should package it with the Browser Source plugin
-  - **Workaround**: Use the AUR
+- [ ] [**Arch**: obs-studio doesn't come installed with the Browser Source plugin](https://youtu.be/TtsglXhbxno?t=1408) [<sup>(closed issue)</sup>](https://bugs.archlinux.org/task/66008)
+  - **Workaround**: Install obs-browser
 - [ ] [**NVIDIA**: X Server Settings is lacking](https://youtu.be/3E8IGy6I9Wo?t=183)
 
 ### Usability
