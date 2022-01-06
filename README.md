@@ -6,7 +6,7 @@ Is Linux up to Linus Sebastian's Standards Yet?
 
 ### General
 
-- [x] [**Pop!\_OS:** + **Apt**: Installing Steam doesn't uninstall essential packages. Apt also prevents you from uninstalling essential packages](https://youtu.be/0506yDSgU7M?t=607) [<sup>(fix)</sup>](https://github.com/pop-os/apt/pull/1)
+- [x] [**Pop!\_OS:** + **Apt**: Steam installs normally + apt prevents you from uninstalling essential packages](https://youtu.be/0506yDSgU7M?t=607) [<sup>(fix)</sup>](https://github.com/pop-os/apt/pull/1)
 - [ ] [**Mint**: "Removing..." when installing Steam](https://youtu.be/0506yDSgU7M?t=921)
 - [x] [4K videos play normally](https://youtu.be/TtsglXhbxno?t=974)
 - [ ] [Fullscreen doesn't work in VLC media player](https://youtu.be/TtsglXhbxno?t=1234)
@@ -26,7 +26,7 @@ Is Linux up to Linus Sebastian's Standards Yet?
 - [ ] [**OBS**: Requires restart for some things to work correctly, but doesn't say so](https://youtu.be/3E8IGy6I9Wo?t=224)
 - [ ] [**Manjaro**: The option to show Snap, Flatpak, and AUR packages in Pamac is "hidden"](https://youtu.be/3E8IGy6I9Wo?t=540)
   - **Possible fix:** [#20](https://github.com/glibg10b/ltt-linux-challenge-issues/issues/20)
-- [x] [**Plasma**: Mouse wheel in "Audio Volume" doesn't scroll through devices and levels of devices at the same time](https://youtu.be/3E8IGy6I9Wo?t=573) [<sup>(fix)</sup>](https://invent.kde.org/teams/usability/issue-board/-/issues/9)
+- [x] [**Plasma**: Mouse wheel in "Audio Volume" works as expected](https://youtu.be/3E8IGy6I9Wo?t=573) [<sup>(fix)</sup>](https://invent.kde.org/teams/usability/issue-board/-/issues/9)
 - [ ] [**Plasma**: Notifications easy to miss on large screens](https://youtu.be/TtsglXhbxno?t=163) [<sup>(WIP fix)</sup>](https://invent.kde.org/teams/usability/issue-board/-/issues/4)
 - [ ] [**Plasma**: Okular signature support is broken](https://youtu.be/TtsglXhbxno?t=281) [<sup>(issue)</sup>](https://invent.kde.org/teams/usability/issue-board/-/issues/5) [<sup>(report)</sup>](https://bugs.kde.org/show_bug.cgi?id=315930)
 - [x] [**LibreOffice Calc**: Exporting a chart is easy](https://youtu.be/TtsglXhbxno?t=423)
