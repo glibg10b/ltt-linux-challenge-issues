@@ -56,7 +56,6 @@ Is Linux up to Linus Sebastian's Standards Yet?
   - **Possible fix:** https://www.spinics.net/lists/usb/msg02644.html
 - [x] [Controllers just work](https://youtu.be/0506yDSgU7M?t=987)
 - [x] [Printing just works](https://youtu.be/TtsglXhbxno?t=600)
-- [ ] [**Mint**: Luke's system locked up when his TV turned on](https://youtu.be/sS25mCLyQyk?t=416)
 
 ### Gaming
 
