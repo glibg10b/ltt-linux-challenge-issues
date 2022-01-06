@@ -6,12 +6,12 @@ Is Linux up to Linus Sebastian's Standards Yet?
 
 ### General
 
-- [x] [**Pop!\_OS:** + **Apt**: Installing Steam doesn't uninstall essential packages. Apt also prevents you from uninstalling essential packages](https://youtu.be/0506yDSgU7M?t=607)
+- [x] [**Pop!\_OS:** + **Apt**: Installing Steam doesn't uninstall essential packages. Apt also prevents you from uninstalling essential packages](https://youtu.be/0506yDSgU7M?t=607) [<sup>(fix)</sup>](https://github.com/pop-os/apt/pull/1)
 - [ ] [**Mint**: "Removing..." when installing Steam](https://youtu.be/0506yDSgU7M?t=921)
 - [x] [4K videos play normally](https://youtu.be/TtsglXhbxno?t=974)
 - [ ] [Fullscreen doesn't work in VLC media player](https://youtu.be/TtsglXhbxno?t=1234)
   - **Workaround:** Set the rendering backend to OpenGL 3.1 (System Settings/Hardware/Display and Monitor/Compositor)
-- [ ] [**Mint:** Window movement while a game is open is laggy](https://youtu.be/TtsglXhbxno?t=1294)
+- [ ] [**Mint:** Window movement while a game is open is laggy](https://youtu.be/TtsglXhbxno?t=1294) [<sup>(issue)</sup>](https://github.com/linuxmint/Cinnamon/issues/2465)
 - [ ] [**Arch**: obs-studio doesn't come installed with the Browser Source plugin](https://youtu.be/TtsglXhbxno?t=1408)
   - **Possible fix:** Arch should package it with the Browser Source plugin
   - **Workaround**: Use the AUR
@@ -19,23 +19,23 @@ Is Linux up to Linus Sebastian's Standards Yet?
 
 ### Usability
 
-- [ ] [**Plasma**: "Configure Audio Volume..." button unintuitive.](https://youtu.be/0506yDSgU7M?t=982)
-- [ ] [**Mint**: Check boxes under "Hardware Configuration" look like radio buttons](https://youtu.be/0506yDSgU7M?t=991)
+- [ ] [**Plasma**: "Configure Audio Volume..." button unintuitive.](https://youtu.be/0506yDSgU7M?t=982) [<sup>(issue)</sup>](https://invent.kde.org/teams/usability/issue-board/-/issues/11)
+- [ ] [**Mint**: Check boxes under "Hardware Configuration" look like radio buttons](https://youtu.be/0506yDSgU7M?t=991) [<sup>(issue)</sup>](https://gitlab.manjaro.org/applications/manjaro-settings-manager/-/issues/194)
 - [ ] [**Manjaro**: `command not found: apt` apparently isn't enough](https://youtu.be/3E8IGy6I9Wo?t=107)
   - **Possible fix:** Maybe command-not-found can show a warning for it? Or [#10](https://github.com/glibg10b/ltt-linux-challenge-issues/issues/10)
 - [ ] [**OBS**: Requires restart for some things to work correctly, but doesn't say so](https://youtu.be/3E8IGy6I9Wo?t=224)
 - [ ] [**Manjaro**: The option to show Snap, Flatpak, and AUR packages in Pamac is "hidden"](https://youtu.be/3E8IGy6I9Wo?t=540)
   - **Possible fix:** [#20](https://github.com/glibg10b/ltt-linux-challenge-issues/issues/20)
-- [x] [**Plasma**: Mouse wheel in "Audio Volume" doesn't scroll through devices and levels of devices at the same time](https://youtu.be/3E8IGy6I9Wo?t=573)
-- [ ] [**Plasma**: Notifications easy to miss on large screens](https://youtu.be/TtsglXhbxno?t=163)
-- [ ] [**Plasma**: Okular signature support is broken](https://youtu.be/TtsglXhbxno?t=281)
+- [x] [**Plasma**: Mouse wheel in "Audio Volume" doesn't scroll through devices and levels of devices at the same time](https://youtu.be/3E8IGy6I9Wo?t=573) [<sup>(fix)</sup>](https://invent.kde.org/teams/usability/issue-board/-/issues/9)
+- [ ] [**Plasma**: Notifications easy to miss on large screens](https://youtu.be/TtsglXhbxno?t=163) [<sup>(WIP fix)</sup>](https://invent.kde.org/teams/usability/issue-board/-/issues/4)
+- [ ] [**Plasma**: Okular signature support is broken](https://youtu.be/TtsglXhbxno?t=281) [<sup>(issue)</sup>](https://invent.kde.org/teams/usability/issue-board/-/issues/5) [<sup>(report)</sup>](https://bugs.kde.org/show_bug.cgi?id=315930)
 - [x] [**LibreOffice Calc**: Exporting a chart is easy](https://youtu.be/TtsglXhbxno?t=423)
-- [ ] [**Linux Mint**: Can't drag a folder of fonts onto font previewer to install them.](https://youtu.be/TtsglXhbxno?t=455)
+- [ ] [**Mint**: Can't drag a folder of fonts onto font previewer to install them.](https://youtu.be/TtsglXhbxno?t=455) [<sup>(issue)</sup>](https://gitlab.gnome.org/GNOME/gnome-font-viewer/-/issues/5)
 - [x] [Installing fonts is easy](https://youtu.be/TtsglXhbxno?t=566)
-- [ ] [**Ark**: Dragging files on top of a folder in Dolphin copies them into the parent folder](https://youtu.be/TtsglXhbxno?t=499)
-- [ ] [**Ark**: Compression appears to finish instantly when, in fact, it does not](https://youtu.be/TtsglXhbxno?t=732)
-- [x] [**Ark**: Compressing files have an idiot-proof .part extension](https://youtu.be/TtsglXhbxno?t=732)
-- [ ] [**Ark**: Doesn't prompt for filename when compressing multiple files](https://youtu.be/TtsglXhbxno?t=816)
+- [ ] [**Ark**: Dragging files on top of a folder in Dolphin copies them into the parent folder](https://youtu.be/TtsglXhbxno?t=499) [<sup>(issue)</sup>](https://invent.kde.org/teams/usability/issue-board/-/issues/8)
+- [ ] [**Ark**: Compression appears to finish instantly when, in fact, it does not](https://youtu.be/TtsglXhbxno?t=732) [<sup>(issue)</sup>](https://invent.kde.org/teams/usability/issue-board/-/issues/3)
+- [x] [**Ark**: Compressing files have an idiot-proof .part extension](https://youtu.be/TtsglXhbxno?t=732) [<sup>(fix)</sup>](https://invent.kde.org/utilities/ark/-/merge_requests/79)
+- [ ] [**Ark**: Doesn't prompt for filename when compressing multiple files](https://youtu.be/TtsglXhbxno?t=816) [<sup>(issue)</sup>](https://invent.kde.org/teams/usability/issue-board/-/issues/10)
 - [x] [Taking a screenshot is easy](https://youtu.be/TtsglXhbxno?t=940)
 - [x] [Adding startup applications is easy](https://youtu.be/TtsglXhbxno?t=964)
 - [x] [Search keywords are user-friendly](https://youtu.be/TtsglXhbxno?t=1001)
@@ -43,8 +43,8 @@ Is Linux up to Linus Sebastian's Standards Yet?
   - **Workaround:** Use left-click drag
 - [x] [Making a shortcut is easy](https://youtu.be/TtsglXhbxno?t=1036)
 - [x] [Mounting a network share is easy](https://youtu.be/TtsglXhbxno?t=1076)
-- [x] [**Dolphin**: Supports root access](https://youtu.be/TtsglXhbxno?t=1496)
-- [ ] [**Plasma**: "Show Desktop" doesn't work like in Windows](https://youtu.be/fJB9fdXWiiw?t=497)
+- [x] [**Dolphin**: Supports root access](https://youtu.be/TtsglXhbxno?t=1496) [<sup>(fix)</sup>](https://invent.kde.org/teams/usability/issue-board/-/issues/6)
+- [ ] [**Plasma**: "Show Desktop" doesn't work like in Windows](https://youtu.be/fJB9fdXWiiw?t=497) [<sup>(issue)</sup>](https://invent.kde.org/teams/usability/issue-board/-/issues/12)
 - [ ] [**Plasma**: Applications' names don't represent their jobs (e.g. "Kate")](https://youtu.be/fJB9fdXWiiw?t=702)
   - **Possible fix:** Put the applications' descriptions in parentheses next to their names (e.g. "Kate (text editor)").
 
@@ -83,32 +83,6 @@ Is Linux up to Linus Sebastian's Standards Yet?
 - [x] [**Minecraft Java**](https://youtu.be/Rlg4K16ujFw?t=908)
 - [x] [**Don't starve together**](https://youtu.be/Rlg4K16ujFw?t=919)
 - [x] [**Towerfall**](https://youtu.be/Rlg4K16ujFw?t=927)
-
-## But these issues are being worked on, right?
-
-Yep:
-
-### Fixes
-
-- https://github.com/pop-os/apt/pull/1
-- https://invent.kde.org/graphics/okular/-/merge_requests/516
-- https://invent.kde.org/utilities/ark/-/merge_requests/79
-- https://invent.kde.org/teams/usability/issue-board/-/issues/6
-- https://invent.kde.org/teams/usability/issue-board/-/issues/9
-
-### Bug reports
-
-- https://github.com/linuxmint/Cinnamon/issues/2465
-- https://invent.kde.org/teams/usability/issue-board/-/issues/11
-- https://gitlab.manjaro.org/applications/manjaro-settings-manager/-/issues/194
-- https://invent.kde.org/teams/usability/issue-board/-/issues/4
-- https://invent.kde.org/teams/usability/issue-board/-/issues/5
-- https://bugs.kde.org/show_bug.cgi?id=315930
-- https://gitlab.gnome.org/GNOME/gnome-font-viewer/-/issues/5
-- https://invent.kde.org/teams/usability/issue-board/-/issues/8
-- https://invent.kde.org/teams/usability/issue-board/-/issues/3
-- https://invent.kde.org/teams/usability/issue-board/-/issues/10
-- https://invent.kde.org/teams/usability/issue-board/-/issues/12
 
 ## Contributing
 
