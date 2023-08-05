@@ -18,7 +18,7 @@ Is Linux up to Linus Sebastian's Standards Yet?
 
 ### Usability
 
-- [ ] [**Plasma**: "Configure Audio Volume..." button unintuitive.](https://youtu.be/0506yDSgU7M?t=982) [<sup>(issue)</sup>](https://invent.kde.org/teams/usability/issue-board/-/issues/11)
+- [x] [**Plasma**: "Configure Audio Volume..." button unintuitive.](https://youtu.be/0506yDSgU7M?t=982) [<sup>(fix)</sup>](https://invent.kde.org/plasma/plasma-pa/-/merge_requests/145)
 - [ ] [**Mint**: Check boxes under "Hardware Configuration" look like radio buttons](https://youtu.be/0506yDSgU7M?t=991) [<sup>(issue)</sup>](https://gitlab.manjaro.org/applications/manjaro-settings-manager/-/issues/194)
 - [ ] [**Manjaro**: `command not found: apt` apparently isn't enough](https://youtu.be/3E8IGy6I9Wo?t=107)
   - **Possible fix:** Maybe command-not-found can show a warning for it? Or [#10](https://github.com/glibg10b/ltt-linux-challenge-issues/issues/10)
@@ -34,7 +34,7 @@ Is Linux up to Linus Sebastian's Standards Yet?
 - [ ] [**Ark**: Dragging files on top of a folder in Dolphin copies them into the parent folder](https://youtu.be/TtsglXhbxno?t=499) [<sup>(issue)</sup>](https://invent.kde.org/teams/usability/issue-board/-/issues/8)
 - [ ] [**Ark**: Compression appears to finish instantly when, in fact, it does not](https://youtu.be/TtsglXhbxno?t=732) [<sup>(issue)</sup>](https://invent.kde.org/teams/usability/issue-board/-/issues/3)
 - [x] [**Ark**: Compressing files have an idiot-proof .part extension](https://youtu.be/TtsglXhbxno?t=732) [<sup>(fix)</sup>](https://invent.kde.org/utilities/ark/-/merge_requests/79)
-- [ ] [**Ark**: Doesn't prompt for filename when compressing multiple files](https://youtu.be/TtsglXhbxno?t=816) [<sup>(issue)</sup>](https://invent.kde.org/teams/usability/issue-board/-/issues/10)
+- [x] [**Ark**: Doesn't prompt for filename when compressing multiple files](https://youtu.be/TtsglXhbxno?t=816) [<sup>(fix)</sup>](https://invent.kde.org/teams/usability/issue-board/-/issues/10)
 - [x] [Taking a screenshot is easy](https://youtu.be/TtsglXhbxno?t=940)
 - [x] [Adding startup applications is easy](https://youtu.be/TtsglXhbxno?t=964)
 - [x] [Search keywords are user-friendly](https://youtu.be/TtsglXhbxno?t=1001)
